@@ -1,9 +1,7 @@
 # Venture Funding with Deep Learning Analysis
 
----
 ## Main Project Notebook
 [Main Code Link](https://github.com/jancichocki/Module_13_Challenge/blob/main/venture_funding_with_deep_learning.ipynb)
----
 
 ## Executive Summary
 As a dedicated Risk Management Associate at Alphabet Soup, a leading venture capital firm, we are entrusted with the critical task of evaluating numerous funding applications from burgeoning startups daily. In an effort to streamline this process and enhance our decision-making framework, we have embarked on developing an advanced machine learning model. This model aims to predict the likelihood of a startup's success upon receiving funding from Alphabet Soup. Utilizing a comprehensive dataset comprising over 34,000 previously funded organizations, we employ sophisticated deep learning techniques to construct a binary classifier model. This model serves as an analytical tool to ascertain the potential success of future applicants based on historical data insights.
