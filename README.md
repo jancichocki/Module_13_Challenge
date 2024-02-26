@@ -2,7 +2,7 @@
 
 ---
 ## Main Project Notebook
-[Explore the Venture Funding with Deep Learning Notebook](https://github.com/jancichocki/Module_13_Challenge/blob/main/venture_funding_with_deep_learning.ipynb)
+[**Explore Now**](https://github.com/jancichocki/Module_13_Challenge/blob/main/venture_funding_with_deep_learning.ipynb)
 ---
 
 ## Executive Summary
